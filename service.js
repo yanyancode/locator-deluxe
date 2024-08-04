@@ -1,9 +1,9 @@
 const CACHE_NAME = 'locator-deluxe-v1.0.0';
 const urlsToCache = [
-    '/index.html',
-    '/style.css',
-    '/icon.svg',
-    '/script.js'
+    '/locator-deluxe/index.html',
+    '/locator-deluxe/style.css',
+    '/locator-deluxe/icon.svg',
+    '/locator-deluxe/script.js'
 ];
 
 self.addEventListener('install', event => {

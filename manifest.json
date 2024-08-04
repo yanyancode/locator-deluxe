@@ -2,10 +2,10 @@
     "name": "Locator Deluxe",
     "short_name": "LD",
     "description": "Locate your target through other signs",
-    "start_url": "/index.html",
+    "start_url": "/locator-deluxe/",
     "theme_color": "#000000",
     "background_color": "#000000",
-    "display": "fullscreen",
+    "display": "standalone",
     "icons": [
         {
             "src": "icon.svg",
